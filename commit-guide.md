@@ -1,6 +1,7 @@
 # Commit guide
 ## 한글 사용
 - 기본적으로 commit message 는 한글로 작성합니다.
+- 동료가 편하게 읽을 수 있는 언어로 작성합니다.
 
 <br>
 
