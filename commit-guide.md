@@ -15,6 +15,6 @@
 <br>
 
 ## 기능 단위
-- commit 은 최대한 기능 단위로 작성하는 것을 원칙으로 합니다.
+- commit 은 최대한 기능 단위로 작성하는 것을 원칙으로 합니다. (뺄셈을 구현하라, 덧셈을 구현하라 등등)
 - 간혹 commit 이후에 발견한 오타 등 자잘한 이슈는 rebase squash 를 사용합니다.
 - 관련 내용: https://www.youtube.com/watch?v=V5KrD7CmO4o&ab_channel=TheModernCoder
