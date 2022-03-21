@@ -5,7 +5,7 @@ https://www.notion.so/backend-devcourse/Github-e1a0908a6bbf4aeaa5a62981499bb215
 
 
 ## 1. branch 만들기
-<img width="800" src="https://user-images.githubusercontent.com/101714618/159258371-63b999c9-bd3c-49a0-acb7-dacf38f221c5.png">
+<img width="700" src="https://user-images.githubusercontent.com/101714618/159258371-63b999c9-bd3c-49a0-acb7-dacf38f221c5.png">
 
 https://github.com/prgrms-be-devcourse/java-calculator 에 접근하여 본인 github_id 로 브랜치 생성 (본인 작업 브랜치)
 
@@ -14,14 +14,14 @@ https://github.com/prgrms-be-devcourse/java-calculator 에 접근하여 본인 g
 
 ## 2. 저장소 Fork 
 
-<img width="800" src="https://user-images.githubusercontent.com/101714618/159258566-c456c7a6-1489-4ae0-8222-bd13f5861445.png">
+<img width="700" src="https://user-images.githubusercontent.com/101714618/159258566-c456c7a6-1489-4ae0-8222-bd13f5861445.png">
 
 저장소를 Fork 하여 본인 Repository 로 복사한다.
 
 <br>
 
 ## 3. upstream 등록
-<img width="800" src="https://user-images.githubusercontent.com/101714618/159259231-252ff6da-c326-49dd-81ff-3e402051a862.png">
+<img width="700" src="https://user-images.githubusercontent.com/101714618/159259231-252ff6da-c326-49dd-81ff-3e402051a862.png">
 
 - Fork 했던 저장소를 upstream 으로 등록합니다.
 - [참고자료](https://json.postype.com/post/210431)
